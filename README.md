@@ -10,7 +10,7 @@
 
 # Visual Studio Code für Remote Entwicklung mit Agents einrichten
 
-Öffnet eure **remote** `settings.json` Datei (sollte unter `~/.vscode-server/data/Machine/` liegen) und stellt sicher, dass ihr die folgenden drei Zeilen habt:
+Öffnet eure **remote** `settings.json` Datei (sollte unter `~/.vscode-server/data/Machine/` liegen) und stellt sicher, dass ihr die folgenden zwei Zeilen habt:
 
 ```json
 {
