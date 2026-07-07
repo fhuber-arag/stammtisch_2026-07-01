@@ -38,7 +38,7 @@ Danach solltet ihr Visual Studio Code neu starten, damit die Änderungen greifen
 ps x | grep vscode-server
 ```
 
-falls noch ein Prozess läuft, einfack `kill`-en :sunglasses:.
+falls noch ein Prozess läuft, einfach `kill`-en :sunglasses:.
 
 # Begriffe
 
